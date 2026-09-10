@@ -9,17 +9,11 @@
 ## Team Members
 
 | Student Name | University ID |
-
-|---|---|
-
+| --- | --- |
 | Fatima Adel Bahadi | 2240001143 |
-
 | Jana Ayed Almarri | 2240005883 |
-
 | Munira Salmeen Alsiari | 2240000754 |
-
 | Reema Abdulaziz Altuwayjiri | 2240002884 |
-
 | Haya Abdulmohsen Aladwani | 2240000014 |
  
 
